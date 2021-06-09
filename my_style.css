@@ -1,0 +1,79 @@
+.block{
+  position: relative;
+  left: 142px;
+  width: 279px;
+  height: 108px;
+  top: 10px;
+  /* padding: 10px; */
+  /* padding: 10px; */
+  background-color:#808080;
+  border: 0.5px solid #ffffff;
+  /* padding: 10px; */
+  /* box-shadow: 0 0 0 0.5px #d1c6c6; */
+  /* -webkit-box-shadow: 0 0 0 0.5px #d1c6c6;
+  -moz-box-shadow: 0 0 0 0.5px #d1c6c6; */
+  filter: 0 0 0 0.5px #d1c6c6;
+  /* margin-left: 10px; */
+  /* padding-top: 10px; */
+  /* margin-left: 10px; */
+  /* float: left; */
+}
+
+.block1 {
+    position: absolute;
+    left: 431px;
+    width: 513px;
+    height: 78px;
+    top: 18px;
+    background-color:  #808080;
+    border: 0.5px solid #ffffff;
+    filter: 0 0 0 0.5px #d1d1d1;
+    margin-left: 10px;
+    padding: 20px 10px 10px 10px;
+}
+
+/* .black2
+{
+    width: 513px;
+} */
+
+.text {
+    font-family: Arial;
+    font-size: 14;
+    line-height: 22px;
+}
+
+.header {
+    padding: 10px;
+}
+
+/* body {
+    width: 100%;
+    min-width: 980px;
+} */
+
+.line {
+    position: relative;
+    margin-top: 20px;
+    width: 1200px;
+    size: 2;
+    color: black;
+    left: 0px;
+}
+
+.first_logo {
+    position: relative;
+    left: 800px;    
+}
+
+/* .white{
+    position: relative;
+    top: -10px;
+    width: 48px;
+    height: 48px;
+    border: 0.5px solid #d1c6c6;
+    padding: 10px;
+    background-color: black;
+    margin: 100px;
+} */
+
